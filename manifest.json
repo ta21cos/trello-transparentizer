@@ -1,0 +1,12 @@
+{
+    "name": "Trello Transparentizer",
+    "version": "1.0",
+    "description": "Transparentize trello interface.",
+    "content_scripts": [
+       {
+        "matches": ["https://trello.com/b/*"],
+        "css": ["transparentize.css"]
+       }
+    ],
+    "manifest_version": 2
+}
