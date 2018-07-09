@@ -1,2 +1,2 @@
 # trello-transparentizer
-trello ui transparentizer
+Make trello UI transparent
