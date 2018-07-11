@@ -11,6 +11,9 @@
 .list-card.active-card {
     background-color:  rgba(255, 255, 255, 0.9) !important;
 }
+.list-card.placeholder {
+    background-color: rgba(255, 255, 255, 0.3) !important;
+}
 /* リストの名前 */
 h2.list-header-name-assist {
     color: white !important;
